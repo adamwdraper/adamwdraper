@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These days, I’m especially interested in what it means to design in an AI-native world—how we create intuitive, useful, human-centered experiences around what feels like a new digital species. I spend a lot of time experimenting with AI agents, rethinking UX patterns, and staying curious about where all of this is going.
+My name is Adam.  These days, I’m especially interested in what it means to design in an AI-native world—how we create intuitive, useful, human-centered experiences around what feels like a new digital species. I spend a lot of time experimenting with AI agents, rethinking UX patterns, and staying curious about where all of this is going.
 
 I’ve been designing and building digital products for over 15 years, with a background that bridges design and engineering. That mix has shaped how I think about systems, user experience, and how teams work together to make great things.
 
